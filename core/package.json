@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-community/async-storage",
+  "name": "react-native-async-storage",
   "version": "2.0.0",
   "main": "build/index.js",
   "files": ["build/**/*"],
